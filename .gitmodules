@@ -1,0 +1,42 @@
+[submodule "ids-exercises"]
+	path = ids-exercises
+	url = git@github.com:enricobu96/ids-exercises.git
+[submodule "tml-projects"]
+	path = tml-projects
+	url = git@github.com:enricobu96/tml-projects.git
+[submodule "hci-exercises-and-projects"]
+	path = hci-exercises-and-projects
+	url = git@github.com:enricobu96/hci-exercises-and-projects.git
+[submodule "iml-project"]
+	path = iml-project
+	url = git@github.com:enricobu96/iml-project.git
+[submodule "iml-exercises"]
+	path = iml-exercises
+	url = git@github.com:enricobu96/iml-exercises.git
+[submodule "tml-project"]
+	path = tml-project
+	url = git@github.com:enricobu96/tml-project.git
+[submodule "pgm-exercises"]
+	path = pgm-exercises
+	url = https://github.com/enricobu96/pgm-exercises
+[submodule "ir-exercises"]
+	path = ir-exercises
+	url = git@github.com:enricobu96/ir-exercises.git
+[submodule "ipqc-exercises"]
+	path = ipqc-exercises
+	url = git@github.com:enricobu96/ipqc-exercises.git
+[submodule "aml-exercises"]
+	path = aml-exercises
+	url = git@github.com:enricobu96/aml-exercises.git
+[submodule "idl-exercises"]
+	path = idl-exercises
+	url = git@github.com:enricobu96/idl-exercises.git
+[submodule "idv-exercises"]
+	path = idv-exercises
+	url = git@github.com:enricobu96/idv-exercises.git
+[submodule "fp-exercises"]
+	path = fp-exercises
+	url = https://github.com/enricobu96/fp-exercises
+[submodule "helsinki-notes"]
+	path = helsinki-notes
+	url = git@github.com:enricobu96/helsinki-notes.git
